@@ -1,6 +1,6 @@
 {
   "name": "@aipub88/react-app-polyfill",
-  "version": "2.0.1",
+  "version": "0.0.1",
   "description": "Polyfills for various browsers including commonly used language features",
   "repository": {
     "type": "git",

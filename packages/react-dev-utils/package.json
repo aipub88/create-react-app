@@ -1,6 +1,6 @@
 {
   "name": "@aipub88/react-dev-utils",
-  "version": "11.0.2",
+  "version": "0.0.1",
   "description": "webpack utilities used by Create React App",
   "repository": {
     "type": "git",

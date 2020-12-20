@@ -1,6 +1,6 @@
 {
   "name": "@aipub88/eslint-config-react-app",
-  "version": "6.0.1",
+  "version": "0.0.1",
   "description": "ESLint configuration used by Create React App",
   "repository": {
     "type": "git",

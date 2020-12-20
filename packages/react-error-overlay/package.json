@@ -1,6 +1,6 @@
 {
   "name": "@aipub88/react-error-overlay",
-  "version": "6.0.9",
+  "version": "0.0.1",
   "description": "An overlay for displaying stack frames.",
   "main": "lib/index.js",
   "sideEffects": false,

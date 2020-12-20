@@ -45,5 +45,6 @@ try {
     )
   );
 } finally {
+  console.log('completed');
   fse.removeSync(temp);
 }

@@ -45,7 +45,7 @@
     "dotenv": "8.2.0",
     "dotenv-expand": "5.1.0",
     "eslint": "^7.11.0",
-    "eslint-config-react-app": "^6.0.1",
+    "eslint-config-react-app": "^6.0.0",
     "eslint-plugin-flowtype": "^5.2.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jest": "^24.1.0",
@@ -114,5 +114,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "987f316dcf1a8f5165888f9d274f86672ae04f00"
+  "gitHead": "f28b43065978122301606bda79e6959d6eb9d3df"
 }

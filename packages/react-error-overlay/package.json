@@ -86,5 +86,6 @@
       "/fixtures/",
       "setupJest.js"
     ]
-  }
+  },
+  "gitHead": "eddabf1c83cf7e682b49ad5e209dedcc501ad6e4"
 }

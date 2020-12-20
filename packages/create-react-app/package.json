@@ -44,5 +44,6 @@
   "devDependencies": {
     "cross-env": "^7.0.2",
     "jest": "26.6.0"
-  }
+  },
+  "gitHead": "eddabf1c83cf7e682b49ad5e209dedcc501ad6e4"
 }

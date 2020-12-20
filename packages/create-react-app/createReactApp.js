@@ -158,8 +158,8 @@ function init() {
             'Firefox',
             'Safari',
           ],
-          npmPackages: ['react', 'react-dom', 'react-scripts'],
-          npmGlobalPackages: ['create-react-app'],
+          npmPackages: ['react', 'react-dom', 'ai-scripts'],
+          npmGlobalPackages: ['ai-react-app'],
         },
         {
           duplicates: true,
@@ -205,7 +205,7 @@ function init() {
         console.log();
         console.error(
           chalk.yellow(
-            `You are running \`create-react-app\` ${packageJson.version}, which is behind the latest release (${latest}).\n\n` +
+            `您 are running \`ai-react-app\` ${packageJson.version}, which is behind the latest release (${latest}).\n\n` +
               'We no longer support global installation of Create React App.'
           )
         );
@@ -467,7 +467,7 @@ function run(
           console.log('');
           console.log(
             `The ${chalk.cyan(packageInfo.name)} version you're using ${
-              packageInfo.name === 'react-scripts' ? 'is not' : 'may not be'
+              packageInfo.name === 'ai-scripts' ? 'is not' : 'may not be'
             } compatible with the ${chalk.cyan('--template')} option.`
           );
           console.log('');
@@ -517,7 +517,7 @@ function run(
       `
         );
 
-        if (version === 'react-scripts@0.9.x') {
+        if (version === 'ai-scripts@0.9.x') {
           console.log(
             chalk.yellow(
               `\nNote: the project was bootstrapped with an old unsupported version of tools.\n` +

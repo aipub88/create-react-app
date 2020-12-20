@@ -191,10 +191,10 @@ module.exports = function (
   const templateScripts = templatePackage.scripts || {};
   appPackage.scripts = Object.assign(
     {
-      start: 'react-scripts start',
-      build: 'react-scripts build',
-      test: 'react-scripts test',
-      eject: 'react-scripts eject',
+      start: 'ai-scripts start',
+      build: 'ai-scripts build',
+      test: 'ai-scripts test',
+      eject: 'ai-scripts eject',
     },
     templateScripts
   );
@@ -405,7 +405,7 @@ module.exports = function (
     );
   }
   console.log();
-  console.log('Happy hacking!');
+  console.log('欢迎使用!');
 };
 
 function isReactInstalled(appPackage) {

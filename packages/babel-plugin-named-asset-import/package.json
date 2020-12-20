@@ -1,5 +1,5 @@
 {
-  "name": "@aipub88/babel-plugin-named-asset-import",
+  "name": "p-babel-plugin-named-asset-import",
   "version": "0.3.9",
   "description": "Babel plugin for named asset imports in Create React App",
   "repository": {
@@ -25,5 +25,5 @@
   "scripts": {
     "test": "jest"
   },
-  "gitHead": "eddabf1c83cf7e682b49ad5e209dedcc501ad6e4"
+  "gitHead": "2e44a98a50ff33aeb80ea834df813c741516a89f"
 }

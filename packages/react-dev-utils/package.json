@@ -1,5 +1,5 @@
 {
-  "name": "@aipub88/react-dev-utils",
+  "name": "p-react-dev-utils",
   "version": "11.0.3",
   "description": "webpack utilities used by Create React App",
   "repository": {
@@ -84,5 +84,5 @@
   "scripts": {
     "test": "cross-env FORCE_COLOR=true jest"
   },
-  "gitHead": "eddabf1c83cf7e682b49ad5e209dedcc501ad6e4"
+  "gitHead": "2e44a98a50ff33aeb80ea834df813c741516a89f"
 }

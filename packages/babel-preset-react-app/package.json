@@ -1,5 +1,5 @@
 {
-  "name": "@aipub88/babel-preset-react-app",
+  "name": "p-babel-preset-react-app",
   "version": "10.0.2",
   "description": "Babel preset used by Create React App",
   "repository": {
@@ -37,5 +37,5 @@
     "babel-plugin-macros": "2.8.0",
     "babel-plugin-transform-react-remove-prop-types": "0.4.24"
   },
-  "gitHead": "eddabf1c83cf7e682b49ad5e209dedcc501ad6e4"
+  "gitHead": "2e44a98a50ff33aeb80ea834df813c741516a89f"
 }

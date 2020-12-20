@@ -1,5 +1,5 @@
 {
-  "name": "@aipub88/ai-scripts",
+  "name": "ai-scripts",
   "version": "4.0.3",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
@@ -114,5 +114,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "eddabf1c83cf7e682b49ad5e209dedcc501ad6e4"
+  "gitHead": "2e44a98a50ff33aeb80ea834df813c741516a89f"
 }

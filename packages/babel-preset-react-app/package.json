@@ -37,5 +37,5 @@
     "babel-plugin-macros": "2.8.0",
     "babel-plugin-transform-react-remove-prop-types": "0.4.24"
   },
-  "gitHead": "ddd9cebf96fd1ce66aed7a0f82fa54d1610651d6"
+  "gitHead": "648a20b13bdf856aaec35c7cffb5708454bcb2d4"
 }

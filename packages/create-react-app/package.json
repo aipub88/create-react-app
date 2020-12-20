@@ -15,7 +15,7 @@
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/aipub88/create-react-app/issues"
   },
   "files": [
     "index.js",

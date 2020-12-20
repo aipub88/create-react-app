@@ -1,6 +1,6 @@
 # babel-preset-react-app
 
-This package includes the Babel preset used by [Create React App](https://github.com/facebook/create-react-app).<br>
+This package includes the Babel preset used by [Create React App](https://github.com/aipub88/create-react-app).<br>
 Please refer to its documentation:
 
 - [Getting Started](https://facebook.github.io/create-react-app/docs/getting-started) – How to create a new app.
@@ -8,7 +8,7 @@ Please refer to its documentation:
 
 ## Usage in Create React App Projects
 
-The easiest way to use this configuration is with [Create React App](https://github.com/facebook/create-react-app), which includes it by default. **You don’t need to install it separately in Create React App projects.**
+The easiest way to use this configuration is with [Create React App](https://github.com/aipub88/create-react-app), which includes it by default. **You don’t need to install it separately in Create React App projects.**
 
 ## Usage Outside of Create React App
 

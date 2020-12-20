@@ -1,6 +1,6 @@
 # eslint-config-react-app
 
-This package includes the shareable ESLint configuration used by [Create React App](https://github.com/facebook/create-react-app).<br>
+This package includes the shareable ESLint configuration used by [Create React App](https://github.com/aipub88/create-react-app).<br>
 Please refer to its documentation:
 
 - [Getting Started](https://facebook.github.io/create-react-app/docs/getting-started) – How to create a new app.
@@ -8,7 +8,7 @@ Please refer to its documentation:
 
 ## Usage in Create React App Projects
 
-The easiest way to use this configuration is with [Create React App](https://github.com/facebook/create-react-app), which includes it by default.
+The easiest way to use this configuration is with [Create React App](https://github.com/aipub88/create-react-app), which includes it by default.
 
 **You don’t need to install it separately in Create React App projects.**
 
@@ -81,4 +81,4 @@ If you want to enable even more accessibility rules, you can create an `.eslintr
 }
 ```
 
-However, if you are using [Create React App](https://github.com/facebook/create-react-app) and have not ejected, any additional rules will only be displayed in the [IDE integrations](https://facebook.github.io/create-react-app/docs/setting-up-your-editor#displaying-lint-output-in-the-editor), but not in the browser or the terminal.
+However, if you are using [Create React App](https://github.com/aipub88/create-react-app) and have not ejected, any additional rules will only be displayed in the [IDE integrations](https://facebook.github.io/create-react-app/docs/setting-up-your-editor#displaying-lint-output-in-the-editor), but not in the browser or the terminal.

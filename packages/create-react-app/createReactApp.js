@@ -573,7 +573,7 @@ function run(
 }
 
 function getInstallPackage(version, originalDirectory) {
-  let packageToInstall = 'react-scripts';
+  let packageToInstall = 'ai-scripts';
   const validSemver = semver.valid(version);
   if (validSemver) {
     packageToInstall += `@${validSemver}`;
@@ -623,7 +623,7 @@ function getInstallPackage(version, originalDirectory) {
 }
 
 function getTemplateInstallPackage(template, originalDirectory) {
-  let templateToInstall = 'cra-template';
+  let templateToInstall = 'p-cra-template';
   if (template) {
     if (template.match(/^file:/)) {
       templateToInstall = `file:${path.resolve(
@@ -867,7 +867,7 @@ function checkAppName(appName) {
   }
 
   // TODO: there should be a single place that holds the dependencies
-  const dependencies = ['react', 'react-dom', 'react-scripts'].sort();
+  const dependencies = ['react', 'react-dom', 'ai-scripts'].sort();
   if (dependencies.includes(appName)) {
     console.error(
       chalk.red(

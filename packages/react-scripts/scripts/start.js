@@ -155,7 +155,7 @@ checkBrowsers(paths.appPath, isInteractive)
         );
       }
 
-      console.log(chalk.cyan('Starting the development server...\n'));
+      console.log(chalk.cyan('服务开始启动...\n'));
       openBrowser(urls.localUrlForBrowser);
     });
 

@@ -4,7 +4,7 @@
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/aipub88/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -24,7 +24,7 @@
     "utils"
   ],
   "bin": {
-    "react-scripts": "./bin/react-scripts.js"
+    "ai-scripts": "./bin/ai-scripts.js"
   },
   "types": "./lib/react-app.d.ts",
   "dependencies": {
